@@ -1,0 +1,28 @@
+#header {
+  width: 100%;
+  height: 60px;
+  /* background-color: red; */
+  margin-top: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#link-wrap {
+  /* background-color: white; */
+  width: calc(100% - 6rem);
+  display: flex;
+  justify-content: space-between;
+}
+
+#link {
+  width: 148px;
+  color: white;
+  height: 40px;
+  border-radius: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #020d26;
+  box-shadow: 3px 3px 10px #23273260, -2px -2px 10px #ffffff4f;
+}
